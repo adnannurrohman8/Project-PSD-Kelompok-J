@@ -1,6 +1,6 @@
 # Project-PSD-kel-10
 
-Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pengantar Sains Data**. Proyek ini berfokus pada analisis eksploratif (*Exploratory Data Analysis*), prapemrosesan data, serta pemodelan prediktif menggunakan dataset *Online Shoppers Purchasing Intention* dari UCI Machine Learning Repository.
+Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pengantar Sains Data**.
 
 ## Anggota Kelompok
 ```text
