@@ -13,8 +13,6 @@ Adnan Nurrohman (K1D025037)
 
 ## Struktur Repositori
 
-## Struktur Repositori
-
 ```text
 Project-PSD-Kelompok/
 ├── README.md
