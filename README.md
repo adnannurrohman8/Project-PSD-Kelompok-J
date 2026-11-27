@@ -42,31 +42,3 @@ Project-PSD-Kelompok/
     ├── Lampiran_2_Dokumentasi_AI.xlsx
     └── Lampiran_3_Bukti_Kontribusi.docx
 ```
-## Petunjuk Menjalankan Notebook
-
-### 1. Prasyarat
-Pastikan perangkat sudah terinstal **Python 3.8+** beserta salah satu lingkungan berikut:
-* **Jupyter Notebook / JupyterLab** atau **Visual Studio Code** (dengan ekstensi Jupyter), atau
-* Akun Google untuk menjalankan secara daring melalui **Google Colab**.
-
-### 2. Persiapan Repositori dan Pustaka
-1. *Clone* repositori ini atau unduh dalam format `.zip` lalu ekstrak ke komputer lokal:
-   ```bash
-   git clone [https://github.com/adnanrrohman25/Project-PSD-kel-10.git](https://github.com/adnanrrohman25/Project-PSD-kel-10.git)
-   cd Project-PSD-kel-10
-   ```
-2. Instal pustaka Python yang dibutuhkan melalui terminal:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
-   ```
-
-### 3. Menjalankan Kode Analisis
-* **Secara Lokal (Jupyter Notebook / VS Code):**
-  1. Buka folder `NOTEBOOK/` dan pilih file `.ipynb` utama.
-  2. Pastikan jalur pembacaan dataset mengarah ke folder `../DATASET/` agar file data dapat terbaca dengan benar.
-  3. Jalankan seluruh sel kode secara berurutan dari atas ke bawah (**Run All**).
-
-* **Melalui Google Colab:**
-  1. Unggah file `.ipynb` dari folder `NOTEBOOK/` ke Google Colab.
-  2. Unggah file dataset dari folder `DATASET/` ke penyimpanan sesi Colab (atau jalankan blok kode unduhan `kagglehub` di dalam *notebook*).
-  3. Pilih menu **Runtime > Run all** untuk menjalankan seluruh tahapan analisis.
